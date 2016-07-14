@@ -1,0 +1,722 @@
+/*1680 - default width covered by style.css. list from smallest to biggest. larger screens will inherit style
+from the previous screen size*/
+
+/*1920*/
+@media only screen and (min-width:1801px) {	
+
+	/*video styles*/
+	.iframe {
+		width: 313%;
+	}
+	.close {
+			margin: -82px -952px -131px 100px;
+	}
+	/**/
+	.menu-home:hover ~ hr {
+		margin-left: 71px;
+		width: 40px;
+		
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 201px;
+	  width: 41px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 334px;
+	  width:70px;
+	}
+
+	.menu-technology:hover ~ hr {
+	  margin-left: 496px;
+	  width: 79px;
+	}
+
+	.menu-demo:hover ~ hr {
+	  margin-left: 665px;
+	  width: 104px;
+	}
+	.bullet_h img {
+		width: 17%;
+	}
+	.brand_tile {
+		margin: 2%;
+	}
+	#employees {
+		width: 34%;
+		margin-right: 15px;
+	}
+	#pitchcat {
+		top:1050px;
+		left: -125px;
+	}
+	.brandsplat_inner {
+		width: 1170px;
+	}
+	.brandsplat_ul {
+		width: 116%;
+	}
+	.brandsplat_ul li {
+		margin: 5px 45px 5px 0;
+	}
+	#greycat {
+		height:443px;
+	}
+	#greycat_right{
+		width: 43%;
+	}
+	#greytech0 {
+		height: 440px;
+	}
+	#pitchtech {
+		top:1153px;
+	}
+	#greytech {
+		width: 43%;
+	}	
+}
+/*2048*/
+@media only screen and (min-width:1985px) {
+	/*video styles*/
+	.iframe {
+		width: 333%;
+	}
+	.close {
+			margin: -82px -1032px -131px 100px;
+	}
+	/**/
+	.menu-home:hover ~ hr {
+		margin-left: 90px;
+		width: 40px;
+		
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 225px;
+	  width: 41px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 361px;
+	  width:70px;
+	}
+
+	.menu-technology:hover ~ hr {
+	  margin-left: 529px;
+	  width: 79px;
+	}
+
+	.menu-demo:hover ~ hr {
+	  margin-left: 705px;
+	  width: 104px;
+	}
+	.brand_tile {
+		margin: 2%;
+	}
+	#greyblock2 {
+		height: 525px;
+	}
+	.hp-contact-box {
+		height: 544px;
+	}
+	#employees {
+		width: 36%;
+		margin-right: 8px;
+	}
+	#employees {
+		background-position: 7px 7px, 170px 15px;
+	}
+	#program {
+		width: 55%;
+		margin-left: 16px;
+		background-position: 7px 7px, 280px 15px;
+	}
+	#aboutButton a {
+		padding: 20px 55px;
+	}
+	.brandsplat_inner {
+		width: 1170px;
+	}
+	.brandsplat_ul {
+		width: 116%;
+	}
+	#greycat {
+		height: 439px;
+	}
+	#greycat_right{
+		width: 40%;
+	}
+	#pitchcat {
+		top:1020px;
+		left: -100px;
+	}
+	#greencatButton a {
+		padding: 15px 55px;
+	}
+	.platform_left {
+		width: 90%;
+	}
+	#pitchtech {
+		top:1125px;
+	}
+	#greytech0 {
+		height: 447px;
+	}
+	#greytech {
+		width: 41%;
+	}
+	#combustion img {
+		width: 61%;
+	}
+}	
+/*2560*/
+@media only screen and (min-width:2305px) {
+	/*video styles*/
+	.modal-content iframe {
+		margin: 32px;
+	}
+	.iframe {
+		width: 408%;
+		height:585px;			
+	}
+	.close {
+			margin: -40px -1176px -131px 100px;
+	}
+	/**/
+	.pageHeader {
+		height: 124px;		
+	}
+	.main-navbar {
+		padding: 2%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 147px;
+		width: 40px;		
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 301px;
+	  width: 41px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 459px;
+	  width:70px;
+	}
+
+	.menu-technology:hover ~ hr {
+	  margin-left: 644px;
+	  width: 79px;
+	}
+
+	.menu-demo:hover ~ hr {
+	  margin-left: 840px;
+	  width: 104px;
+	}
+	.sticky {
+		height: 72px;
+	}
+	.sticky div {
+		height: 72px;
+		padding-top: 9px;
+	}
+	.sticky > .headerContent {
+		padding: 0 20%;
+	}	
+	.pitch {
+		padding: 12% 20% 0;
+	}
+	.pitch h2 {
+		font-size: 40px;
+	}
+	.pitch p {
+		font-size: 24px;
+	}
+	#greyblock2 {
+		height: 830px;
+	}
+	.greyblock h2 {
+		font-size: 38px;
+	}
+	.greyblock p {
+		font-size: 24px;
+	}
+	.bullet_h strong{
+		font-size: 18px;
+	}
+	.bullet_h p {
+		font-size: 18px;
+	}
+	.greyblock {
+		height: 550px;
+	}
+	.homewhite0 h2 {
+		font-size:38px;
+	}
+	.homewhite0 p {
+		font-size:24px;
+	}
+	.whiteblock {
+		height:500px;
+	}
+	#button1 {
+		width:60%;
+	}
+	.intheblock {
+		width: 70%;
+	}
+	.intheblock h2 {
+		font-size: 38px;
+	}
+	.intheblock p {
+		font-size:24;
+	}
+	#button2 {
+		width: 25%;
+		padding:1%;
+	}
+	div.iSwitch img {
+		width:100%;
+	}
+	.whiteblock2 h2 {
+		font-size:38px;
+	}
+	.whiteblock2 p {
+		font-size:24px;
+	}
+	.brand_tile {
+		margin: 2%;
+		height:182px;
+		width: 182px;
+	}
+	.brandfoot {
+		font-size:18px;
+	}
+	.whitebutton {
+		font-size:24px;
+	}
+	.greyblock2 {
+		height: 763px;
+	}
+	#featureList li {
+		font-size:20px;
+	}
+	#program {
+		margin-left: 50px;
+	}
+	.hp-btnsubmit {
+		width:20%;
+	}
+	#demoHeader {
+		font-size:38px;
+	}
+	#formHeader {
+		font-size:24px;
+	}
+	.hp-contact-box {
+		height: 622px;
+	}
+	#greyabout0 {
+		height: 450px;
+	}
+	#whiteabout div {
+		font-size:24px;
+	}
+	#whiteabout h2 {
+		font-size:32px;
+	}
+	#whiteabout p {
+		font-size:24px;
+	}
+	#whiteabout {
+		height: 930px;
+	}
+	#greyabout_left h2 {
+		font-size: 38px;		
+	}
+	#greyabout_left p {
+		font-size: 22px;		
+	}
+	#greyabout_left span {
+		font-size: 18px;		
+	}
+	#greyabout_left {
+		padding: 0 20% 0 0;
+		margin: 0 0 0 3%;
+		width:47%;
+	}
+	#greyabout {
+		height: 854px;
+	}
+	#photologo {
+		width:50%;
+		height:932px;
+	}
+	#photologo img {
+		width:100%;
+	}
+	.greenblock_in {
+		padding: 36px 20%; 
+	}
+	.pdfButton {
+		font-size:20px;
+	}
+	#greyCat0 {
+		height: 440px;
+	}
+	#whitecat_left h2 {
+		font-size:38px;
+	}
+	#whitecat_right h2 {
+		font-size:38px;
+	}
+	#whitecat_left p {
+		font-size:24px;
+	}
+	#whitecat_right p {
+		font-size:24px;
+	}
+	#whitecat {
+		height: 470px;
+	}
+	#pitchcat {
+		top: 1360px;
+	}
+	#pitchcat h2 {
+		font-size:38px;
+	}
+	#pitchcat p {
+		font-size:24px;
+	}
+	#demoButtonCat0 {
+		font-size:24px;
+	}
+	#brandPart h2 {
+		font-size:38px;
+	}
+	#brandPart h4 {
+		font-size:32px;
+	}
+	#brandPart p {
+		font-size:24px;
+	}
+	.hp-category {
+		font-size:18px;
+	}
+	.brandTables {
+		width: 72%;
+		margin: 8% 11% auto;
+	}
+	#slide_left img {
+		width:2%;
+	}
+	#slide_right img {
+		width:2%;
+	}
+	#greycat {
+		height:548px;
+	}
+	#pdfButton2 {
+		font-size:22px;
+	}
+	#pitchtech {
+		top:1680px;
+	}
+	#pitchtech0 h2 {
+		font-size:42px;
+	}
+	#pitchtech0 p {
+		font-size:24px;
+	}
+	#greytech-1 {
+		height:440px;
+	}
+	#whitetech h2 {
+		font-size:38px;
+	}
+	#whitetech p {
+		font-size:24px;
+	}
+	#platformBlock img {
+		width:180%;
+		margin-top:0%;
+	}
+	#platform-top p {
+		font-size: 20px;
+	}
+	#platform-bottom p {
+		font-size: 20px;
+	}
+	#platform-top h2 {
+		font-size: 28px;
+	}
+	#platform-bottom h2 {
+		font-size: 28px;
+	}
+	#whiteTech {
+		height: 740px;
+	}
+	#pitchtech {
+		top:1690;
+	}
+	#pitchtech  h2 {
+		font-size:38px;
+	}
+	#pitchtech  p {
+		font-size:24px;
+	}
+	#demoButtonTech {
+		font-size:32px;
+	}
+	#columnBlock h2 {
+		font-size: 38px;
+	}
+	.featureCol h5 {
+		font-size:24px;
+	}
+	.featureCol p {
+		font-size:24px;
+	}
+	.inGrey {
+		font-size: 24px;
+	}
+	#csvPart {
+		font-size:24px;
+	}
+	.grationType {
+		width:49%;
+	}
+	#combustion p {
+		font-size: 24px;
+		line-height: 32px;
+		margin-top:0%;
+	}
+	#combustion img {
+		width: 90%;
+	}
+	#greytech_right h2 {
+		font-size:38px;
+	}
+	#greytech_right p {
+		font-size:18px;
+	}
+	#greytech {
+		width:47%;
+	}
+	#greytech0 {
+		height:641px;
+	}
+}
+/*3840*/
+@media only screen and (min-width:3200px) {
+	/*video styles*/
+	.modal-content iframe {
+		margin: 32px;
+	}
+	.iframe {
+		width: 620%;
+		height:876px;			
+	}
+	.close {
+			display:none;
+	}
+	/**/
+	#engentiveLogo {
+		margin-top: 0%;
+	}
+	.top-menu {
+		width: 50%;
+	}
+	.main-navbar {
+		padding: 0 2%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 66px;
+		width: 40px;		
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 193px;
+	  width: 41px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 321px;
+	  width:70px;
+	}
+
+	.menu-technology:hover ~ hr {
+	  margin-left: 482px;
+	  width: 79px;
+	}
+
+	.menu-demo:hover ~ hr {
+	  margin-left: 649px;
+	  width: 104px;
+	}
+	.hero {
+		height: 1000px;
+	}
+	.pitch {
+		height: 1000px;
+	}
+	.pitch h2 {
+		font-size: 60px;
+	}
+	.pitch p {
+		font-size: 42px;
+	}
+	.greyblock h2 {
+		font-size: 49px;
+	}
+	.greyblock p {
+		font-size: 40px;
+	}
+	.greyblock {
+		height: 840px;
+	}
+	.bullet_h img {
+		width: 16%;
+	}
+	.bullet_h strong {
+		font-size: 24px;
+	}
+	.bullet_h p {
+		font-size: 24px;
+	}
+	.whiteblock h2 {
+		font-size: 49px;
+	}
+	.whiteblock p {
+		font-size: 32px;
+	}
+	.whiteblock {
+		height: 750px;
+	}
+	.demoButton a {
+		font-size: 32px;
+	}
+	.slantblock {
+		height: 600px;
+	}
+	.slantblock p {
+		font-size: 49px;
+	}
+	.intheblock h2 {
+		font-size:49px;
+	}
+	.intheblock p {
+		font-size:40px;
+	}
+	.engineblock {
+		height:1500px;
+	}
+	.enginecontent {
+		background: rgba(0, 0, 0, 0) linear-gradient(370deg, transparent 550px, #ffffff 0px) repeat scroll 0 0;
+		height: 1610px;
+	}
+	div.iSwitch {
+		width: 27%;
+	}
+	.brand_tile {
+		width: 300px;
+		height: 300px;
+		margin: 1%;
+	}
+	.brandfoot {
+		font-size:26px;
+	}
+	.whiteButton a {
+		font-size: 32px;
+	}
+	#greyblock2 {
+		height: 1180px;
+	}
+	#featureList li {
+		font-size: 26px;
+	}
+	#featureImage {
+		background-size: 130%;
+	}
+	#demoHeader {
+		font-size: 49px;
+	}
+	#formHeader {
+		font-size: 32px;
+	}
+	.hp-contact-box {
+		height:740px;
+	}
+	.hp-btnsubmit {
+		font-size: 32px;
+	}
+	.footerBottom {
+		height: 430px;
+	}
+	#pitchAbout h2 {
+		font-size: 60px;
+	}
+	#pitchAbout p {
+		font-size: 42px;
+	}
+	#greyabout0 {
+		height: 610px;
+	}
+	#photologo {
+		height: 854px;
+	}
+	#photologo img {
+		padding: 0 27%;
+	}
+	#greyCat0 {
+		height: 610px;
+	}
+	#pitchcat {
+		top:1700px;
+	}
+	.pdfButton a {
+		font-size: 28px;
+	}
+	.brandsplat_inner {
+		width:1505px;
+	}
+	#greycat {
+		height: 741px;
+	}
+	#greycat_right {
+		width:36%;
+	}
+	#greycat_left h2 {
+		font-size: 49px;
+	}
+	#greycat_left p {
+		font-size: 32px;
+	}
+	#greycat_left2 {
+		margin-bottom: 5%;
+	}
+	#greytech-1 {
+		height: 610px;
+	}
+	#greytech {
+		width: 43%;
+	}
+	#whitecat_left h4 {
+		font-size: 28px;
+	}
+	#pitchcat {
+		top:1644px;
+	}
+	#pitchtech {
+		top:1900px;
+	}
+	#pitchtech0 h2 {
+		font-size: 60px;
+	}
+	#pitchtech0 p {
+		font-size: 42px;
+	}
+	#combustion {
+		width: 36%;
+	}
+	#greytech0 {
+		height: 880px;
+	}
+	#whiteTech {
+		height: 650px;
+	}
+}	
+

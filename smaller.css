@@ -1,0 +1,3597 @@
+/*1680 - default width covered by style.css. 
+list from largest to smallest: smaller screens will inherit style
+from the previous screen size*/
+
+/*1536*/
+@media only screen and (max-width:1608px) {	
+	.modal-body {
+		width: 93%;
+	}
+	.headerContent {
+		padding:2% 20%;
+	}
+	.top-menu {
+		width: 100%;
+	}
+	.top-menu a {
+		padding: 4%;
+	}
+	.sticky .main-navbar {
+		padding-top: 20px;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 80px;
+		width:41px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 183px;
+	  width: 43px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 282px;
+	  width: 73px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 414px;
+	  width: 83px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 550px;
+	  width: 108px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 80px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 183px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 284px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 418px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 557px;
+		}
+	}
+	.hero {
+		background-position: center -200px;
+	}
+	.bullet_h img {
+		width: 64px;
+	}
+	.slantblock p {
+		margin: 30% 0 0 0;
+	}
+	.intheblock {
+		margin-left:0%;
+		width: 50%;
+	}
+	.brand_tile {
+		width:122px;
+		height: 122px;
+	}
+	#employees {
+		background-position: 7px 7px, 148px 15px;
+	}
+	#program {
+		width: 55%;
+		margin-left: 16px;
+		background-position: 7px 7px, 212px 15px;
+	}
+	#greycat_right {
+		width:50%;
+	}
+	#greyblock2 {
+		height:590px;
+	}
+	.featuresP h2 {
+		margin-top:3%;
+		font-size:22px;
+	}
+	.featuresP p {
+		font-size:14px;
+	}
+	#featureImage {
+		background-size: 130%;
+	}
+	.hp-contact-box {
+		height: 540px;
+		background-size: 130%;
+	}
+	#greyabout {
+		height: 512px;
+	}
+	#photologo img {
+		width:100%;
+	}
+	#greyabout_left {
+		padding-top: 2%;
+	}
+	#greyabout_left h2 {
+		font-size:28px;
+		margin-bottom: 0;
+	}
+	#greyabout_left p {
+		font-size:13px;
+	}
+	.brands-category-bar {
+		width: 96%;
+	}	
+	.brandsplat_ul li {
+		margin: 5px 40px 5px 0;
+	}
+	#whitecat {
+		height:450px;
+	}
+	#fixCat {
+		background-size: 190%;
+	}
+	#pitchcat {
+		top:1150px;
+	}
+	#greycat {
+		height:411px;
+	}
+	#pdfButton2 {
+		width: 60%;
+	}
+	#whiteTech {
+		height: 490px;
+	}
+	.fixblock_t {
+		background-size: 190%;
+	}
+	#pitchtech {
+		left: 0;
+		top:1250px;
+	}
+	#combustion {
+		margin-top:16%;
+	}
+	#combustion img {
+		width:100%;
+	}
+	#greytech0 {
+		height: 409px;
+	}
+	#greytech {
+		width: 50%;
+	}
+	#greytech_right {
+		width: 50%;
+	}
+	#greytech_right h2 {
+		padding-top: 4%;
+		padding-bottom: 2%;
+	}
+}
+/*1440*/
+@media only screen and (max-width:1488px) {	
+	.iframe{
+		width:258%;
+	}
+	.top-menu {
+		width:100%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 54px;
+		width:41px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 151px;
+	  width: 43px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 249px;
+	  width: 73px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 378px;
+	  width: 83px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 511px;
+	  width: 108px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 54px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 151px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 249px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 378px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 516px;
+		}
+	}
+	.bullet_h img {
+		width: 44px;
+	}
+	.engineblock {
+		background-size: 200%;
+	}
+	#button2 {
+		width: 50%;
+	}
+	#button2 a {
+		padding: 10px 25px;
+	}
+	.featuresP h2 {
+		margin-top: 0;
+	}
+	.featureWords h2 {
+		font-size: 22px;
+	}
+	.featuresP p {
+		font-size: 12px;
+	}
+	.featuresP h2 {
+		font-size: 22px;
+		padding: 36px 0 24px;
+	}
+	#featureList li  {
+		font-size: 11px;
+	}
+	#greyblock2 {
+		height:500px;
+	}
+	.hp-contact-box {
+		background-size:140%;
+	}
+	#employees {
+		background-position: 7px 7px, 138px 15px;
+	}
+	#program {
+		margin-left: 15px;
+		background-position: 7px 7px, 200px 15px;
+	}
+	.callAt {
+		width: 40%;
+	}
+	#greyabout {
+		height:481px;
+	}
+	#greyabout_left {
+		padding: 0% 3%;
+	}
+	#greyabout_left p {
+		font-size: 15px;
+	}
+	.brandTables {
+		width:100%;
+	}
+	.hp-parent-div-cat {
+		width:100%;
+	}	
+	.brandsplat_ul li {
+		margin: 5px 30px 5px 0;
+	}
+	#greycat {
+		height:467px;
+	}
+	#greycat_left {
+		width:40%;
+	}
+	#pdfButton0 {
+		width: 100%;
+	}
+	#whitecat {
+		height: 480px;
+	}
+	#fixCat {
+		background-size: 190%;
+	}
+	#pitchcat {
+		top:1170px;
+	}
+	#greycat {
+		height: 385px;
+	}
+	#pdfButton2 {
+		padding: 1%;
+		width: 70%;
+	}
+	#pitchtech {
+		top:1240px;
+	}
+	#whiteTech h2 {
+		font-size: 28px;
+	}
+	#platformBlock h2 {
+		font-size: 18px;
+	}
+	#whiteTech {
+		height: 466px;
+	}
+	#combustion {
+		margin-top:17%;
+	}
+	#combustion p {
+		line-height:12px;
+	}
+	#greytech {
+		width:50%;
+	}
+	#greytech_right {
+		padding: 0 0 0 4%;
+	}
+	#greytech_right h2 {
+		font-size: 18px;
+	}
+	#greytech_right p {
+		font-size: 11px;
+	}
+	#greytech0 {
+		height:383px;
+	}
+}
+/*1366*/
+@media only screen and (max-width:1403px) {
+	.iframe{
+		width:245%;
+	}
+	.close {
+		margin: -82px -620px -131px 100px;
+	}
+		.top-menu a {
+			padding: 3%;
+			font-size: 12px;
+		}
+		
+		.sticky #homeNav {
+			padding-top: 9px;
+		}
+		.sticky img {
+			padding-top: 10px;
+		}
+		.sticky a {
+			letter-spacing: 0.1px;
+		}
+
+	.menu-home:hover ~ hr {
+		margin-left: 152px;
+		width:32px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 224px;
+	  width: 35px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 302px;
+	  width: 56px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 400px;
+	  width: 65px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 505px;
+	  width: 84px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 159px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 233px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 310px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 409px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 513px;
+		}
+	}
+	.pitch {
+		padding: 18% 20% 0;
+	}
+	.bullet_h strong {
+		font-size: 10px;
+	}
+	.bullet_h p {
+		font-size: 10px;
+	}
+	.bullet_h img {
+		width:45px;
+		margin-top: 5px;
+	}
+	.engineblock {
+		height: 930px;
+		background-size: 200%;
+	}
+	.enginecontent {
+		height: 1080px;
+	}
+	.demoButton a {
+		width:36%;
+	}
+	.whiteButton a {
+		width:33%;
+	}
+	#button2 {
+		width: 66%;
+	}
+	#button2 a {
+		padding: 10px 15px;
+	}
+	.brand_tile {
+		width: 115px;
+		height: 115px;
+	}
+	.hp-contact-box {
+		background-size: 150%;
+	}
+	#employees {
+		background-position: 7px 7px, 130px 15px;
+	}
+	#program {
+		margin-left: 11px;
+		background-position: 7px 7px, 185px 15px;
+	}	
+	.productButton {
+		width: 95%;
+	}
+	#featureImage {
+		background-size: 140%;
+	}
+	#whiteabout {
+		height: 640px;
+	}
+	#greyabout {
+		height: 456px;
+	}
+	#greyabout_left p {
+		font-size: 13px;
+	}
+	.pdfButton a {
+		font-size: 11px;
+	}
+	#pdfButton0 {
+		width: 38%;
+	}
+	#pdfButton2 {
+		width: 80%;
+	}
+	#pitchcat {
+		top:990px;
+		left: 0;
+	}
+	#whitecat {
+		height: 366px;
+	}
+	#whitecat_in h2 {
+		font-size: 24px;
+	}
+	#whitecat_in h4 {
+		font-size: 14px;
+	}	
+	#whitecat_in p {
+		font-size: 12px;
+	}	
+	.brandsplat_ul li {
+		margin: 5px 60px 5px 0;
+	}
+	#greycat {
+		height: 366px;
+	}
+	#pitchtech {
+		top: 1150px;
+	}
+	.grationType {
+		widht: 49%;
+	}
+	#greytech_right p {
+		font-size: 11px;
+	}
+	#greytech {
+		width: 53%;
+	}
+	#greytech_right {
+		width: 47%;
+		padding:  0 0 0 2%;
+	}
+	#greytech0 {
+		height: 386px;
+	}
+	.greenblock_in h2 {
+		font-size: 24px;
+	}
+	.greenblock_in p {
+		font-size: 12px;
+	}
+	#techButton a {
+		font-size: 18px;
+		padding: 10px 50px;
+	}
+}
+/*1280*/
+@media only screen and (max-width:1323px) {
+	.iframe{
+		width:231%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 121px;
+		width:32px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 192px;
+	  width: 35px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 266px;
+	  width: 56px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 363px;
+	  width: 65px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 465px;
+	  width: 84px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 132px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 202px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 277px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 373px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 476px;
+		}
+	}
+	.pitch h2 {
+		font-size: 28px;
+	}
+	#hero_video span {
+		font-size: 14px;
+	}
+	#hero_video img {
+		width: 36px;
+	}
+	.greyblock {
+		height: 334px;
+	}
+	.greyblock h2 {
+		font-size: 24px;
+	}
+	.greyblock p {
+		font-size: 14px;
+	}
+	.whiteblock {
+		height: 328px;
+	}
+	.whiteblock h2 {
+		font-size: 24px;
+	}
+	.whiteblock p {
+		font-size: 14px;
+	}
+	.bullet_h strong {
+		font-size: 9px;
+	}
+	.bullet_h p {
+		font-size:10px;
+	}
+	.demoButton a {
+		width: 33%;
+		font-size: 16px;
+	}
+	#button2 {
+		width: 50%;
+	}
+	.slantblock p {
+		font-size: 24px;
+		margin: 36% 0 0 0;
+	}
+	.engineblock {
+		height: 1010px;
+	}
+	.enginecontent {
+		height: 1010px;
+	}
+	.engineblock h2 {
+		font-size: 24px;		
+	}
+	.engineblock p {
+		font-size: 14px;		
+	}
+	#button2 {
+		margin-right: 80px;
+	}
+	.intheblock {
+		width: 60%;
+	}
+	.iSwitch  {
+		width: 36%;
+	}
+	.brand_tile {
+		height:110px;
+		width:110px;
+	}
+	#greyblock2 {
+		height: 600px;
+	}
+	#featureImage {
+		background-size: 160%;
+	}
+	.hp-contact-box {
+		height: 520px;
+	}
+	#program {
+		margin-left: 13px;
+	}
+	#greyabout {
+		height: 427px;
+	}
+	#greyabout_left p {
+		font-size: 12px;
+	}
+	#pitchcat {
+		top:1000px;
+	}
+	.brandsplat_inner {
+		width: 1124px;
+	}
+	.brandsplat_ul li {
+		margin: 5px 45px 5px 0;
+	}
+	#pdfButton2 {
+		width: 100%;
+	}
+	#fixCat {
+		background-size: 200%;
+	}
+	#greycat {
+		height: 342px;
+	}
+	.grationType {
+		margin: 0 2%;
+		width:44%;
+	}
+	#whitetech {
+		height: 483px;
+	}
+	.fixblock_t {
+		background-size: 215%;
+	}
+	#pitchtech {
+		top: 1180px;
+	}
+	#greytech0 {
+		height: 362px;
+	}
+	#combustion p {
+		line-height: 17px;
+	}
+	.greenblock_in {
+		padding: 3% 20%;
+	}
+}	
+/*1136*/
+@media only screen and (max-width:1208px) {
+	.iframe{
+		width:205%;
+		height:360px;
+	}
+	.close {
+		margin: -82px -395px -131px 100px;
+	}
+	.headerContent {
+		padding:2% 20%;
+	}
+	.main-navbar {
+		padding-top: 2%;
+	}
+	.top-menu {
+		width:80%;
+	}
+	.top-menu a {
+		padding: 2%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 35px;
+		width:32px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 90px;
+	  width: 35px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 145px;
+	  width: 56px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 224px;
+	  width: 65px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 310px;
+	  width: 84px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 45px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 100px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 155px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 232px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 318px;
+		}
+	}
+	.sticky a {
+		letter-spacing: 0.3px;
+	}
+	.hero {
+		height:450px;
+	}
+	#bullet1a strong, #bullet2a strong, #bullet3a strong {
+		font-size: 8px;
+	}
+	.engineblock {
+		height:830px;
+		background-size: 177%;
+	}
+	.enginecontent {
+		height:950px;
+	}
+	.intheblock {
+		margin-left: 10%;
+		width: 44%;
+		padding: 4%;
+	}
+	.intheblock h2 {
+		font-size: 22px;
+	}
+	.intheblock p {
+		font-size: 12px;
+	}	
+	.iSwitch {
+		width:40%;
+	}
+	.iSwitch img {
+		width: 100%;
+	}
+	#button2 {
+		margin-left: 0;
+		margin-top: 10%;
+		width: 65%;
+	}
+	.brand_tile {
+		height: 95px;
+		width: 95px;
+	}
+	.productButton {
+		width: 100%;
+	}
+	#greyblock2 {
+		height:685px;
+	}
+	#featureImage {
+		background-size: 180%;
+	}
+	#featureList li {
+		font-size: 12px;
+	}
+	.hp-contact-box {
+		background-size: 180%;
+	}
+	#employees {
+		width: 42%;
+	}
+	#program{
+		margin-left: 4px;
+	}
+	.hp-btnsubmit {
+		padding:10px;
+		font-size:16px;
+	}
+	.callAt {
+		width: 45%;
+	}
+	.hp-parent-map {
+		width: 136px;
+		height: 32px;
+		overflow: hidden;
+		position: absolute;
+		bottom: 197px;
+		right:281px;
+	}
+	.bottomColumn {
+		width: 24%;
+	}
+	#whiteabout h2 {
+		font-size: 22px;
+	}
+	#whiteabout p {
+		font-size: 12px;
+	}
+	#whiteabout {
+		height:660px;
+	}
+	#greyabout {
+		height: 379px;
+	}
+	.greenblock {
+		height: 162px;
+	}
+	#aboutButton a {
+		font-size: 13px;
+		width: 100%;
+		padding: 10px 50px;
+	}
+	#pdfButton0 {
+		width: 50%;
+	}
+	#whitecat p {
+		font-size: 12px;
+	}
+	#whitecat {
+		height: 441px;
+	}
+	#pitchcat {
+		top: 1060px;
+	}
+	#fixCat {
+		background-size: 250%;
+	}
+	.brandsplat_inner {
+		width: 1030px;
+	}
+	.brandsplat_ul li {
+		margin: 5px 30px 5px 0;
+	}
+	#greycat_right {
+		width:56%;
+	}
+	#greycat_left1 {
+		font-size: 12px;
+	}
+	#grecat_left h2 {
+		font-size: 18px;
+	}
+	#greycat {
+		height: 340px;
+	}
+	.pdfButton a {
+		font-size: 11px;
+	}
+	#greencatButton a {
+		font-size: 13px;
+		width: 100%;
+		padding: 10px 50px;
+	}
+	#pitchtech {
+		top: 1120px;
+	}
+	#whiteTech h2 {
+		font-size: 22px;
+	}
+	#platformBlock h2 {
+		font-size: 18px;
+	}
+	#platformBlock p {
+		font-size: 13px;
+	}
+	.fixblock_t {
+		background-size:250%;
+	}
+	#pitchtech {
+		top:1380px;
+	}
+	#combustion {
+		margin-top: 12%;
+	}
+	#combustion img {
+		width: 80%;
+	}
+	#combustion p {
+		line-height: 12px;
+	}
+	#csvPart {
+		width: 170%;
+	}
+	#greytech0 {
+		height:316px;
+	}
+	#greytech_right {
+		padding: 24px 0 0 2%;
+	}
+	#greytech_right h2 {
+		font-size: 16px;
+	}
+	#greytech_right p {
+		font-size: 10px;
+	}
+	.tickers {
+		width:113%;		
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+		-moz-column-count: 2; /* Firefox */
+		column-count: 2;
+		margin-top:2%;
+		padding-left: 1%;
+	}
+	.tickers p {
+		width:100%;
+	}
+	#greytech {
+		height: 321px;
+	}
+	.greenblock_in {
+		padding: 4% 20%;
+	}
+}
+/*1024*/
+@media only screen and (max-width:1080px) {
+	.iframe{
+		width:184%;
+		height: 280px;
+	}
+	.close {
+		margin: -82px -363px -131px 100px;
+	}
+	.top-menu {
+		padding: 17px 0;
+	}	
+	.top-menu a {
+		padding: 2%;
+		font-size:10px;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 46px;
+		width:28px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 95px;
+	  width: 29px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 142px;
+	  width: 48px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 211px;
+	  width: 54px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 286px;
+	  width: 71px;
+	}
+	.sticky a {
+		letter-spacing: 0.2px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 51px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 100px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 147px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 216px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 291px;
+		}
+		.sticky a {
+			letter-spacing: 0;
+		}
+	}
+	.hero {
+		height:370px;
+		background-position: center -160px;
+	}
+	.pitch {
+		padding-top: 12%;
+	}
+	.pitch h2 {
+		font-size: 28px;
+	}
+	#hero_video {
+		font-size: 15px;
+	}
+	#hero_video img {
+		width:40px;
+	}
+	.greyblock h2 {
+		font-size: 28px;
+	}
+	.greyblock p {
+		font-size: 12px;
+	}
+	.bullet_h p {
+		font-size: 10px;
+	}
+	.bullet_h img {
+		width: 29px;
+	}
+	.whiteblock h2 {
+		font-size: 28px;
+	}
+	.whtieblock p {
+		font-size:12px;
+	}
+	.slantblock p {
+		margin: 40% 0 0 ;
+		font-size: 28px;
+	}
+	#button2 {
+		margin-top: 0;
+	}
+	.brand_tile {
+		height:85px;
+		width: 85px;
+	}
+	.whiteButton a {
+		padding: 2%;
+		font-size:16px;
+		width: 33%;
+	}
+	.featureWords h2 {
+		font-size: 18px;
+	}
+	.featureWords p {
+		font-size: 11px;
+	}
+	.featuresP h2 {
+		padding-top: 4%;
+	}
+	#featureImage {
+		width: 53%;
+	}
+	.featureWords {
+		width: 44%;
+	}
+	#featureList li {
+		font-size: 9px;
+		line-height: 1.8em;
+	}
+	#greyblock2 {
+		height: 513px;
+	}
+	#employees {
+		width: 100%;
+		background-position: 7px 7px, 255px 15px;
+		height: 50px;
+		margin-bottom: 14px;
+	}
+	#program {
+		width: 100%;
+		margin-left: 0;
+		background-position: 7px 7px, 255px 15px;
+		height: 50px;
+	}
+	.hp-contact-box {
+		background-size: 200%;
+		height: 560px;
+	}
+	.hp-btnsubmit {
+		margin-left: 80px;
+		width:49%;
+	}
+	#fonChat {
+			width: 70%;
+	}
+	.callAt {
+		width: 40%;
+	}
+	.hp-parent-map {
+		bottom: 209px;
+		right: 235px;
+		height:20px;
+	}
+	#photologo {
+		width: 29%;
+	}
+	.underPic {
+		width:132%;
+		margin-left: -130px;
+	}
+	#greyabout {
+		height: 400px;
+	}
+	.greenblock_in h2 {
+		font-size: 22px;
+	}
+	#aboutButton a {
+		font-size:12px;
+		padding: 10px 20px;
+		margin-top: 20px;
+	}
+	.brandsplat_inner {
+		width: 990px;
+	}
+	.brandsplat_ul li {
+		margin: 5px 55px 5px 0;
+	}
+	.hp-category {
+		font-size: 8px;
+	}
+	#greycat_right {
+		width: 62%;
+	}
+	#greycat_left {
+		width: 38%;
+	}
+	#greycat_left h2 {
+		font-size: 18px;
+	}
+	#greencatButton a {
+		padding: 10px 30px;
+		font-size: 12px;
+	}
+	#platformBlock img {
+		width: 70px;
+	}
+	#whiteTech {
+		height: 500px;
+	}
+	#techButton a {
+		font-size: 12px;
+		margin-top: 20px;
+		padding: 10px 15px;
+	}
+	#greytech_right p {
+		font-size: 12px;
+	}
+	#greytech {
+		width: 125%;
+		height: 40%;
+		overflow:hidden;
+	}
+	#greytech_right {
+		width: 125%;
+		padding: 0 20%;
+	}
+	.tickers {
+		margin-top: 5%;
+	}
+	#greytech0 {
+		height: 450px;
+	}
+	.fixblock_t {
+		background-size: 360%;
+		background-position: center center;
+	}
+	#pitchtech {
+		top:1140px;
+	}
+}
+/*960*/
+@media only screen and (max-width:992px) {
+	.main-navbar {
+		width: 58%;
+	}
+	.top-menu {
+		width:100%;
+	}	
+	.top-menu a {
+		padding: 2%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 22px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 68px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 113px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 180px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 250px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 22px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 70px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 117px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 183px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 256px;
+		}
+	}
+	.hero {
+		height: 470px;
+	}
+	.pitch {
+		padding-top:17%;
+	}
+	.iframe{
+		width:173%;
+		height:380px;
+	}
+	.sticky #homeNav {
+		padding-top: 15px;
+	}
+	.bullet_h img {
+		display: none;
+	}
+	.twotone p {
+		font-size: 22px;
+		text-align:left;
+		margin: 49% 0 0;
+	}
+	.whiteblock h2 {
+		font-size: 22px;
+	}
+	.whiteblock p {
+		font-size: 12px;
+	}
+	#whiteblock2 h2 {
+		font-size: 22px;
+	}
+	#whiteblock2 p {
+		font-size: 12px;
+	}
+	.brand_tile {
+		width: 80px;
+		height: 80px;
+	}
+	#greyblock2 {
+		height: 439px;
+	}
+	#featureImage {
+		width: 56%;
+	}
+	#featureImage p {
+		font-size: 16px;
+		padding: 6% 20%;
+	}
+	.hp-contact-box {
+		background-size: 215%;
+	}
+	.hp-parent-map {
+		right: 216px;
+		bottom: 200px;
+	}
+	#whiteabout {
+		height: 700px;
+	}
+	#greyabout_left h2 {
+		font-size: 24px;
+	}
+	.greenblock {
+		height: 114px;
+	}
+	#greyCat0 {
+		height:250px;
+	}
+	#whitecat_in h2 {
+		font-size: 22px;
+	}
+	#whitecat_left, #whitecat_right {
+		width: 44%;
+	}
+	#pitchcat {
+		top: 1070px;
+	}
+	#brandPart h2 {
+		font-size: 22px;
+	}
+	#brandPart h4 {
+		font-size: 12px;
+	}
+	#brandPart p {
+		font-size: 12px;
+	}
+	#greycat {
+		height: 318px;
+	}
+	#greencatButton a {
+		padding: 10px 20px;
+	}
+	#greytech-1 {
+		height: 230px;
+	}
+	#platformBlock img {
+		width: 60px;
+	}
+	.fixblock_t {
+		background-size: 300%;
+	}
+	#pitchtech {
+		top:1140px;
+	}
+	#combustion {
+		margin-top: 20%;
+	}
+}	
+/*950*/
+@media only screen and (max-width:955px) {
+	#engentiveLogo img {
+		width: 140%;
+		padding-top: 18px;
+	}
+	.main-navbar {
+		width: 60%;
+	}
+	.sticky #engentiveLogo {
+		width: 10%;
+		padding-top: 0px;
+	}
+	.close {
+		margin: -82px -300px -131px 100px;
+	}
+	.iframe {
+		width: 171%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 29px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 74px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 119px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 187px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 257px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 30px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 76px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 123px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 192px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 264px;
+		}
+	}
+	#employees {
+		background-position: 7px 7px, 245px 15px;
+	}
+	#program {
+		background-position: 7px 7px, 245px 15px;
+	}
+	#greycat_right {
+		width: 125%;
+		height: 40%;
+		overflow:hidden;
+	}
+	#fixCat {
+		background-size: 270%;
+	}
+	#greycat_left {
+		padding-left: 20%;
+		width:100%;
+	}
+	#greycat {
+		height: 576px;
+	}
+	.featureCol p {
+		font-size: 12px;
+	}
+}	
+/*900*/
+@media only screen and (max-width:925px) {
+	.sticky img {
+		padding-top: 0;
+	}
+	.main-navbar {
+		width:66%;
+	}
+	.hero {
+		height: 430px;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 42px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 88px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 134px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 200px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 273px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 41px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 89px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 136px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 204px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 278px;
+		}
+	}
+	.iframe {
+		width: 163%;
+		height: 340px;
+	}
+	.close {
+		margin: -82px -220px -131px 100px;
+	}
+	.demoButton a {
+		font-size: 12px;
+		width:36%;
+	}
+	.slantblock {
+		height: 245px;
+	}
+	.twotone p {
+		font-size: 22px;
+		margin: 16% 0 0 ;
+		text-align: right;
+	}
+	.brand_tile {
+		width: 74px;
+		height: 74px;
+	}
+	.brandfoot {
+		font-size: 9px;
+	}
+	.whiteButton a {
+		font-size: 12px;
+	}
+	.featureWords h2 {
+		font-size: 16px;
+	}
+	.featureWords h2 {
+		padding: 18px 0 36px;
+	}
+	#greyblock2 {
+		height:450px;
+	}
+	#featureImage p {
+		font-size: 14px;
+	}
+	#employees {
+		background-position: 7px 7px, 230px 15px;
+	}
+	#program {
+		background-position: 7px 7px, 230px 15px;
+	}
+	
+	.hp-contact-box {
+		background-size: 230%;
+	}
+	#fonChat {
+		width:68%;
+	}
+	.bottomColumn h2 {
+		font-size: 12px;
+	}
+	.bottomColumn li {
+		font-size: 10px;
+	}
+	.bottomColumn li.demoButton {
+		font-size: 10px;
+	}
+	#buttonOnBottom {
+		font-size:10px;
+	}
+	.hp-parent-map {
+		right: 214px;
+		bottom:228px;
+		width: 116px;
+	}
+	#LastRow {
+		display:none;
+	}
+	.greyblock h2 {
+		font-size: 22px;
+	}
+	#greyabout0 {
+		height: 230px;
+	}
+	.whiteblock h2 {
+		margin-top: 44px;
+	}
+	.greenblock_in  h2{
+		text-align: center;
+	}
+	.greenblock_in {
+		display:block;
+		padding: 2% 24%;		
+	}
+	.greenblock {
+		height: 166px;
+	}
+	#aboutButton {
+		position:relative;
+		right:180px;
+	}
+	#aboutButton a {		
+	}
+	#photologo {
+		width: 100%;
+		height: 40%;
+		overflow:hidden;
+		background-position: 0 -225px ;
+	}
+	#greyabout_left {
+		width: 100%;
+		padding: 0 20%;
+	}
+	.underPic {
+		width: 100%;
+		margin-left: 0;
+	}
+	#greyabout {
+		height: 637px;
+	}
+	#fixCat {
+		height: 140px;
+		background-size: 225%;
+	}
+	#pitchcat {
+		top:980px;
+	}
+	#pitchcat h2 {
+		font-size: 22px;
+	}
+	#pitchcat p {
+		font-size: 12px;
+	}
+	.brandsplat_ul {
+		margin-left: -200px;
+		height: 100px;
+	}
+	.brandsplat_inner {
+		width: 1032px;
+		height: 124px;
+	}
+	.brandsplat_ul li {
+		margin: 5px 40px 5px 0;
+		width: 90px;
+		height: 90px;
+		font-size: 7px;
+	}
+	.brands-category {
+		font-size: 15px;
+		margin: -21px 0 0 34px;
+	}
+	.brands-view-all {
+		font-size: 10px;
+	}
+	#pdfButton2 {
+		float:right;
+		width:92%;
+		padding: 0 24%;
+	}
+	#greencatButton {
+		padding: 0 35%;
+	}
+	#greytech-1 {
+		height: 200px;
+	}
+	#platformBlock img {
+		width: 58px;
+	}
+	.platform-left {
+		margin: -46px 0 20px 20px;
+	}
+	.fixblock_t {
+		height: 200px;
+		background-size: 290%;
+	}
+	#pitchtech h2 {
+		font-size: 22px;
+	}
+	#pitchtech p {
+		font-size: 12px;
+	}
+	#pitchtech {
+		top: 1040px;
+	}
+	#greytech0 {
+		height: 460px;
+	}
+	#techButton {
+		padding: 0;
+		margin: 0 160px 0 0;
+	}
+}
+/*800*/
+@media only screen and (max-width:850px) {
+	.sticky img {
+		width: 100% !important;
+	}
+	#engentiveLogo img {
+		width:140%;
+		padding-top: 22px;
+	}	
+	.main-navbar {
+		width: 70%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 22px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 68px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 112px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 180px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 250px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 25px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 71px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 118px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 186px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 257px;
+		}
+	}
+	.hero {
+		height: 360px;
+	}
+	.iframe {
+		width: 145%;
+		height: 270px;
+	}
+	.close {
+		margin: -82px -160px -131px 100px;
+	}
+	.pitch h2 {
+		font-size: 22px;
+	}
+	.pitch p {
+		font-size: 12px;
+	}
+	#hero_video img {
+		width: 32px;
+		margin-bottom: 0;
+	}
+	#hero_video span {
+		font-size: 12px;
+	}
+	.greyblock {
+		height: 384px;
+	}
+	.bullet_row {
+		border: 1px solid black;
+		padding-top: 0;
+	}
+	.bullet_h {
+		width: 100%;
+	}
+	.bullet_h p {
+		font-size:12px;
+	}
+	.bullet_h:nth-child(odd) {
+	background-color: #ffffff;
+	}
+	.bullet_h:nth-child(even) {
+		background-color: #f2f2f2;
+	}
+	#bullet1a strong, #bullet2a strong, #bullet3a strong,
+	#bullet1b strong, #bullet2b strong, #bullet3b strong
+	{
+		font-size:10px;
+	}
+	.bullet_h img {
+		display: block;
+		width: 60px;
+	}
+	.twotone p {
+		font-size: 22px;
+		margin: 18% 0 0;
+		text-align: left;
+	}
+	.whiteblock {
+		height: 393px;
+	}
+	.engineButton {
+		padding-top: 0;
+	}
+	.iSwitch {
+		padding-top: 128px;
+		width: 46%;
+	}
+	.engineblock {
+		height: 750px;
+		background-size: 220%;
+	}
+	.brandrow {
+		padding: 0 10%;
+	}
+	.brand_tile {
+		height: 112px;
+		width: 112px;
+	}
+	.brandfoot {
+		margin-left: 50px;
+	}
+	.hp-contact-box {
+		background-size: 270%;
+	}
+	#socials {
+		height: 40px;
+	}
+	.social {
+		height: 40px;
+		width: 60px;
+	}
+	.social img {
+		margin: 16%;
+	}
+	#fonChat {
+		height: 40px;
+		padding-top: 14px;
+	}
+	.callAt {
+		font-size: 12px;
+		padding-left: 1%;
+	}
+	.callWhen {
+		padding-top: 0;
+	}
+	.chatNow {
+		padding-top: 0;
+	}
+	.footerBottom {
+		height: 319px;
+	}
+	#fourthCol li {
+		font-size:9px;
+	}
+	.hp-parent-map {
+		bottom: 164px;
+		right: 186px;
+		width: 100px;
+	}
+	#greyblock2 {
+		height: 660px;
+		position:relative;
+	}
+	#featureImage {
+		height:42%;
+		width: 100%;
+		background-size:100%;
+		position:absolute;
+		bottom: 0;
+	}
+	.featureWords {
+		width:100%;
+		padding: 0 20%;
+		position:absolute;
+		top: 0;
+	}
+	.#featureImage p {
+		font-size:12px;
+		padding: 3% 20%;
+	}
+	#pitchAbout h2 {
+		font-size: 22px;
+	}
+	#pitchAbout p {
+		font-size: 12px;
+	}
+	#photologo img {
+		display:none;
+	}
+	#photologo {
+		background-position: 0 -128px;
+	}
+	#greyabout {
+		height: 666px;
+	}
+	.greenblock_in h2 {
+		text-align:left;
+	}
+	#aboutButton {
+		right:150px;
+	}
+	#fixCat {
+		background-size:280%;
+	}
+	#pitchcat {
+		top: 920px;
+	}
+	#pdfButton2 {
+		padding: 0 22%;
+	}
+	#greencatButton a {
+		margin-top: 0;
+		padding: 10px 20px;
+	}
+	#greencatButton {
+		padding: 0;
+		position:relative;
+		right:150px;
+	}
+	#platformBlock img {
+		width: 50px;
+	}
+	#pitchtech {
+		top: 1140px;
+	}
+	#columnBlock h2 {
+		font-size: 22px;
+	}
+	#pitchtech0 h2 {
+		font-size: 22px;
+	}
+	#pitchtech0 p {
+		font-size: 12px;
+	}
+	#combustion {
+		margin-top: 24%;
+	}
+	#combustion img {
+		width: 100%;
+	}
+	#techButton a {
+		margin-top: 0;
+		padding: 10px 20px;
+	}
+	#techButton {
+		padding: 0;
+		position:relative;
+		right: 0px;
+	}
+	#pitchtech {
+		top:990px;
+	}
+}	
+/*768*/
+@media only screen and (max-width:784px) {
+	.main-navbar {
+		width:72%;
+	}
+	.top-menu {
+		width:100%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 19px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 65px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 110px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 176px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 248px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 21px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 68px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 114px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 182px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 254px;
+		}
+	}
+	.iframe {
+		height: 250px;
+		width: 138%;
+	}
+	.close {
+		margin: -82px -150px -131px 100px;
+	}
+	.hero {
+		height: 340px;
+	}
+	.brand_tile {
+		height: 96px;
+		width: 96px;
+		margin: 3%;
+	}
+	.brandfoot {
+		margin-left: 55px;
+	}
+	.hp-parent-map {
+		right: 168px;
+	}
+	.bottomColumn {
+		width: 25%;
+	}
+	#whiteabout {
+		height: 782px;
+	}
+	#greyabout {
+		height: 730px;
+	}
+	#aboutButton {
+		right: 140px;
+		bottom:10px;
+	}
+	#pdfButton0 {
+		width: 80%;
+	}
+	#whitecat {
+		height: 480px;
+	}
+	#pitchcat {
+		top: 950px;
+	}
+	.brandsplat_ul li {
+		margin: 5px 35px 5px 0;
+	}
+	.brandsplat_inner {
+		width: 888px;
+	}
+	#pdfButton2 {
+		padding: 0 20%;
+	}
+	#greencatButton {
+		padding: 0;
+	}
+	#platformBlock img {
+		width: 44px;
+	}
+	#whiteTech {
+		height: 530px;
+	}
+	#pitchtech {
+		top: 1000px;
+	}
+	#combustion p {
+		line-height: 16px;
+	}
+	#greytech0 {
+		height: 440px;
+	}
+}
+/*736*/
+@media only screen and (max-width:752px) {
+	.top-menu a {
+		padding: 1%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 30px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 70px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 110px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 170px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 237px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 39px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 79px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 118px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 178px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 244px;
+		}
+	}
+	.modal-content iframe {
+		margin-top: 92px;
+	}
+	.modal-dialog {
+		margin: 0;
+	}
+	.modal-body {
+		padding: 0;
+	}
+	.iframe {
+		height: 227px;
+		width: 111%;
+	}
+	.close {
+		margin: 20px 20px -131px 100px;
+	}
+	.hero {
+		height: 320px;
+	}
+	.bullet_h img {
+		width: 58px;
+	}
+	.bullet_h p {
+		width: 80%;
+	}
+	.brand_tile {
+		margin: 2%;
+	}
+	.hp-contact-box {
+		background-size: 280%;
+	}
+	.hp-textbox {
+		font-size:13px;
+	}
+	.hp-selectbox {
+		font-size:13px;
+	}
+	#FullName, #eMail, #phonenum, #datetime, #Company, #title {
+		background-size: 26px;
+	}
+	#employees {
+		margin-bottom: 10px;
+		background-size: 26px;
+		height: 42px;
+	}
+	#program {
+		margin-bottom: 10px;
+		background-size: 26px;
+		height: 44px;
+	}
+	#fourthCol li {
+		font-size: 8px;
+	}
+	.hp-parent-map {
+		right:152px;
+		bottom: 174px;
+		height: 10px;
+	}
+	.bottomColumn {
+		padding: 1%;
+	}
+	#whiteabout {
+		height: 762px;
+	}
+	#greyabout {
+		height: 705px;
+	}
+	#aboutButton {
+	}
+	#whitecat {
+		height:525px;
+	}
+	#pitchcat {
+		top: 980px;
+	}
+	.brandsplat_inner {
+		width: 900px;
+	}
+	.brandsplat_ul {
+		left: -160px;
+	}
+	.brandsplat_ul li {
+		margin: 5px 30px 5px 0;
+	}
+	#pdfButton2 {
+		padding: 0 19%;
+	}
+	#greencatButton {
+	}
+	#pitchtech {
+		top: 990px;
+	}
+	#combustion p {
+		line-height: 17px;
+	}
+	#typesBlock {
+		width: 100%;
+	}
+	#csvPart {
+		width: 100%;
+	}
+	#combustion {
+		margin-top: 5%;
+		width: 100%;
+	}
+	#combustion img {
+		width: 70%;
+	}
+	#combustion p {
+		line-height: 10px;
+	}
+	#techButton {
+		right: 0px;
+	}
+}	
+/*720*/
+@media only screen and (max-width:728px) {
+	.menu-home:hover ~ hr {
+		margin-left: 24px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 64px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 103px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 164px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 229px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 32px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 72px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 112px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 172px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 237px;
+		}
+	}
+	.modal-content iframe {
+		margin-top: 90px;
+	}
+	.iframe {
+		height: 220px;
+	}
+	.close {
+		margin: 20px 20px -131px 100px;
+	}
+	.hero {
+		height: 310px;
+	}
+	#button2 {
+		margin-right: -82px;
+	}
+	#greyblock2 {
+		height: 700px;
+	}
+	.hp-contact-box {
+		background-size: 300%;
+	}
+	.hp-parent-map {
+		right: 153px;
+		bottom: 116px;
+		width:94px;
+	}
+	.footnotes {
+		margin-top: -27px;
+	}
+	#pitchcat {
+		top:970px;
+	}
+	.hp-category {
+		font-size: 7px;
+	}
+	#whiteTech {
+		height: 570px;
+	}
+	#pitchtech {
+		top:1010px;
+	}	
+	#greytech0 {
+		height: 470px;
+	}
+	.tickers p {
+		width:80%;
+	}
+	#greencatButton {
+	}
+	#platformBlock img {
+		width: 40px;
+	}
+	#techButton {
+		margin: 0;
+		right:120px;
+	}
+	.fixblock_t {
+		background-size: 380%;
+	}
+}	
+/*667*/
+@media only screen and (max-width:693px) {
+	#engentiveLogo img {
+		width:120%;
+		padding-top:26px;
+	}
+	.main-navbar {
+		width:75%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 21px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 58px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 97px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 155px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 219px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 24px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 62px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 103px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 162px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 227px;
+		}
+	}
+	.modal-content iframe {
+		margin-top: 75px;
+	}
+	.iframe {
+		height: 194px;
+	}
+	.close {
+		margin: 20px 20px -131px 100px;
+	}
+	.hero {
+		height: 270px;
+		background-position: center -100px;
+	}
+	.pitch {
+		padding-top:15%;
+	}
+	.pageHeader {
+		height: 76px;
+	}
+	.twotone p {
+		margin: 22% 0 0;
+	}
+	.enginecontent {
+		background: rgba(0, 0, 0, 0) linear-gradient(371deg, transparent 350px, #ffffff 0px) repeat scroll 0 0
+	}
+	.brand_tile {
+		height: 80px;
+		width: 80px;
+	}
+	.brandfoot {
+		margin-left: 50px;
+		margin-bottom: 20px;
+	}
+	.hp-contact-box {
+		background-size: 330%;
+	}
+	#FullName, #eMail, #phonenum, #datetime, #Company, #title {
+		font-size: 12px;
+	}
+	#employees, #program {
+		height: 40px;
+	}
+	.callAt {
+		font-size:10px;
+	}
+	.callWhen {
+		font-size:10px;
+	}
+	.chatNow {
+		font-size: 11px;
+	}
+	.hp-parent-map {
+		width: 76px;
+	}
+	#whiteabout {
+		height:860px;
+	}
+	#greyabout {
+		height: 727px;
+	}
+	.greenblock h2 {
+		font-size:18px;
+	}
+	#aboutButton {
+		right: 110px;
+	}
+	#whitecat {
+		height: 542px;
+	}
+	#brandPart {
+		display:none;
+	}
+	#greycat {
+		margin-top: 0;
+	}
+	#pdfButton0 {
+		margin-top: -36px;
+		margin-left: 50px;
+	}
+	#pdfButton2 {
+		padding: 0 13%;
+	}
+	#greencatButton {
+		right:100px;
+	}
+	#platformBlock img {
+		width: 36px;
+	}
+	#pitchtech {
+		top: 1160;
+	}
+	#whiteTech {
+		height: 596px;
+	}
+	#techButton {
+	}
+}	
+/*659*/
+@media only screen and (max-width:663px) {
+	.menu-home:hover ~ hr {
+		margin-left: 17px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 55px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 92px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 152px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 216px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 20px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 59px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 98px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 157px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 222px;
+		}
+	}
+	.greyblock h2 {
+		font-size: 18px;
+	}
+	.greyblock p {
+		font-size: 11px;
+	}
+	.bullet_h p {
+		font-size: 11px;
+	}
+	.whiteblock h2 {
+		font-size: 18px;
+	}
+	.whiteblock p {
+		font-size: 11px;
+	}
+	.engineblock h2 {
+		font-size: 18px;
+	}
+	.engineblock p {
+		font-size: 11px;
+	}
+	.twotone p {
+		font-size: 18px;
+	}
+	.demoButton a {
+		width: 44%;
+	}
+	.whiteButton {
+		margin-top: 4%;
+	}
+	.whiteButton a {
+		width: 40%;		
+	}
+	#demoHeader {
+		font-size: 18px;
+	}
+	#formHeader {
+		font-size: 12px;
+	}
+	.hp-textbox,.hp-selectbox {
+		font-size: 12px;
+	}
+	#FullName, #eMail, #phonenum, #datetime, #Company, #title, #employees, #program {
+		background-size: 24px;		
+	}
+	#employees, #program {
+		height: 40px;
+	}
+	.hp-btnsubmit {
+		font-size:16px;
+		width: 48%;
+	}
+	.hp-contact-box {
+		height: 450px;
+	}
+	#fonChat {
+		width: 67%;
+	}
+	#whiteabout h2 {
+		font-size: 18px;
+	}
+	#whiteabout p {
+		font-size: 11px;
+	}
+	#whiteabout {
+		height: 760px;
+	}
+	#greyabout h2 {
+		font-size: 18px;
+	}
+	#greyabout p {
+		font-size: 11px;
+	}
+	#greyabout {
+		height: 674px;
+	}
+	#fourthCol  li {
+		font-size: 8px;
+	}
+	.hp-parent-map {
+		bottom: 116px;
+		right: 141px;
+		width: 86px;
+		height: 10px;
+	}
+	#greyCat0 {
+		height: 200px;
+	}
+	#whitecat  h2 {
+		font-size:18px;
+	}
+	#whitecat  p {
+		font-size:11px;
+	}
+	#whitecat {
+		height: 483px;
+	}
+	#pitchcat {
+		top: 1000px;
+	}
+	#greycat p {
+		font-size: 11px;
+	}
+	#greycat {
+		height: 500px;
+	}
+}
+/*640*/
+@media only screen and (max-width:649px) {
+	#engentiveLogo img {
+		padding-top: 26px;
+	}
+	.sticky img {
+		padding-top: 22px !important;
+	}
+	.main-navbar {
+		width:80%;
+	}
+	.menu-home:hover ~ hr {
+		margin-left: 29px;
+	}
+	.menu-about:hover ~ hr {
+	  margin-left: 64px;
+	}
+	.menu-catalogue:hover ~ hr {
+	  margin-left: 104px;
+	}
+	.menu-technology:hover ~ hr {
+	  margin-left: 163px;
+	}
+	.menu-demo:hover ~ hr {
+	  margin-left: 226px;
+	}
+	@-moz-document url-prefix() {
+		.menu-home:hover ~ hr {
+			margin-left: 29px;			
+		}
+		.menu-about:hover ~ hr {
+		  margin-left: 69px;
+		}
+		.menu-catalogue:hover ~ hr {
+		  margin-left: 109px;
+		}
+		.menu-technology:hover ~ hr {
+		  margin-left: 168px;
+		}
+		.menu-demo:hover ~ hr {
+		  margin-left: 233px;
+		}
+	}
+	.modal-content iframe {
+		margin-top: 75px;
+	}
+	.close {
+		margin: -10px 38px -131px 100px;
+	}
+	.top-menu {
+		width:100%;
+	}
+	.brand_tile {
+		width: 80px;
+		height: 80px;
+	}
+	.brandfoot {
+		margin-left: 46px;
+	}
+	#greyabout_left a {
+		padding-left: 45%;
+	}
+	#pitchcat {
+		top:870px;
+	}
+	#platformBlock img {
+		display:none;
+	}
+	#platformBlock p {
+		font-size:11px;
+	}
+	#whiteTech {
+		height: 460px;
+	}
+	.platform-left {
+		width: 100%;
+	}
+	#pitchtech {
+		top: 900px;
+	}
+	#pitchtech h2 {
+		font-size:18px;
+	}
+	#pitchtech p {
+		font-size:11px;
+	}
+	#columnBlock h2 {
+		font-size: 18px;
+	}
+	#columnBlock h5 {
+		font-size: 12px;
+	}
+	#columnBlock p {
+		font-size: 11px;
+	}
+	#greytech_right p {
+		font-size: 11px;
+	}
+}
+/*627*/
+@media only screen and (max-width:633px) {
+	.headerContent {
+		padding: 0 20% 2%;
+	}
+	#engentiveLogo {
+		width: 30%;
+		float:none;
+		margin: 0 auto;
+	}
+	#engentiveLogo img {
+		margin-top: 10px;
+		padding-top: 0;
+	image-rendering: -moz-crisp-edges;
+	image-rendering:   -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+	-ms-interpolation-mode: nearest-neighbor;  
+	}
+	.main-navbar {
+		width: 100%;
+		padding:0;
+	}
+	.top-menu {
+		float:none;
+		padding:0;
+		text-align: center;
+	}
+	.top-menu a {
+		font-size: 11px;
+		padding: 2%;
+	}
+	hr {
+		display:none;
+	}
+		
+		.sticky {
+			height: 50px;
+		}
+		.sticky #engentiveLogo {
+			padding-top: 0;
+			width: 20%;
+		}
+		.sticky #engentiveLogo  img {
+			margin-top: 0px !important;
+			padding-top: 0 !important;
+		}		
+		.sticky #homeNav {
+			padding-top: 0;
+		}
+		.sticky div {
+			height:26px;
+		}
+		.sticky a {
+			padding-top: 12px;
+		}
+		.sticky .main-navbar {
+			padding-top: 0;
+		}
+
+	.modal-content iframe {
+		margin-top: 74px;
+	}
+	.brandrow {
+		padding: 0;
+	}
+	.brand_tile {
+		margin: 4%;
+	}
+	#socials {
+		height: 32px;
+	}
+	.social {
+		height: 32px;
+		width: 44px;
+	}
+	.social img {
+		width: 14px;
+	}
+	#fonChat {
+		padding-top: 9px;
+		height: 32px;
+		width: 72%;
+	}
+	.brandfoot {
+		margin-left: 19px;
+	}
+	.footerBottom {
+		padding-top: 2%;
+		height: 380px;
+	}
+	#fourthCol {
+		padding: 1% 3%;
+	}
+	#thirdCol {
+		margin-left: 1px;
+	}
+	#footer1, #thirdCol {
+		width: 50%;
+		padding-left: 10%
+	}
+	#footer2, #fourthCol {
+		width: 49%;
+		padding-left: 20%
+	}
+	.bottomColumn li {
+		line-height: 1.4em;
+	}
+	.glyphicon-map-marker {
+		display:none;
+	}
+	.hp-parent-map {
+		bottom: 77px;
+		right: 235px;
+		width: 24px;
+		height:24px;
+		border-radius:12px;
+	}
+	.engineblock {
+		height: 639px;
+	}
+	.enginecontent {
+		height: 894px;
+	}
+	#aboutButton {
+	}
+	#greencatButton {
+	}
+	#greycat_right {
+		display:none;
+	}
+	#greycat {
+		height: 286px;
+	}
+	#whiteTech h2 {
+		font-size: 18px;
+	}
+	#techButton {
+		right:90px;
+	}
+}	
+/*600*/
+@media only screen and (max-width:613px) {
+	#pdfButton0 {
+		margin-top: -36px;
+		margin-left:87px;
+	}
+	#featureImage p {
+		font-size: 12px;
+		padding: 2% 20%;
+	}
+	#featureImage {
+		height:35%;
+	}
+	#greyblock2 {
+		height:600px;
+	}
+	.formFrame_left {
+		width:100%;
+	}
+	.formFrame_right {
+		width:100%;
+		margin-top: -15px;
+	}
+	.hp-contact-box {
+		height: 760px;
+		background-size:470%;
+	}
+	#employees {
+		margin-bottom: 18px;
+	}
+	.hp-btnsubmit {
+		width: 97%;
+		margin-left: 0;
+		margin-right: 15px;
+		margin-top: 0;
+	}
+	.chatNow {
+		font-size: 9px;
+	}
+	.hp-parent-map {
+		bottom: 66px;
+		right: 226px;
+	}
+	#photologo {
+		background-position: 0 -107px;
+		height:20%;
+	}
+	#greyabout_left a {
+		padding-left: 45%;
+	}
+	#greyabout {
+		height:520px;
+	}
+	#whitecat_left, #whitecat_right {
+		width:100%;
+	}
+	#fixCat {
+		background-size: 360%;
+	}
+	#pitchcat h2 {
+		font-size:18px;
+	}
+	#pitchcat {
+		top: 870px;
+	}
+	#pdfButton2 {
+	}
+	#demoButtonCat0 a {
+		padding: 2%;
+		width:50%;
+	}
+	.fixblock_t {
+		background-size: 360%;
+	}
+	#pitchtech {
+		top:910px;
+	}
+	#aboutButton {
+		right:80px;
+	}
+}	
+/*598*/
+@media only screen and (max-width:599px) {
+	.menu-home {
+		display:none;
+	}
+}
+/*567*/
+@media only screen and (max-width:582px) {
+	.modal-content iframe {
+		margin-top: 76px;
+	}
+	#button2 a {
+		padding:10px;
+	}
+	.hp-contact-box {
+		background-size: 500%;
+	}
+	.hp-parent-map {
+		bottom: 67px;
+		right: 215px;
+	}
+	.greenblock_in h2 {
+		font-size:16px;
+	}
+	.greenblock_in p {
+		font-size: 11px;
+	}
+	#pdfButton2 {
+	}
+	#demoButtonTech {
+		margin-top: 32px;
+	}
+	#whiteabout {
+		height: 800px;
+	}
+	#greyabout_left a {
+		padding-left: 25%;
+	}
+	#aboutButton {
+	}
+}
+/*540*/
+@media only screen and (max-width:553px) {
+	.hero {
+		height:250px;
+		background-position: center -70px;
+	}
+	.pitch h2 {
+		font-size:19px;
+	}
+	.extras {
+		margin-top:0;
+	}
+	.iframe {
+		height:176px;
+	}
+	#hero_video {
+		text-align:center;
+		float:none;
+	}
+	.bullet_h img {
+		display:none;
+	}
+	#button1 {
+		margin: 17% 0 0 0;
+	}
+	#button1 a {
+		width: 100%;
+	}
+	#button2 {
+		margin-top: 20px;
+		width:100%;
+	}
+	.whiteButton a {
+		padding: 3%;
+		width:100%;
+	}
+	#whiteabout {
+		height: 840px;
+	}
+	#greyabout {
+		height: 540px;
+	}
+	.footerBottom {
+		height: 400px;
+	}
+	.hp-parent-map {
+		bottom: 90px;
+		right: 200px;
+	}
+	#pitchcat {
+		top: 860px;
+	}
+	#pdfButton2 {
+		padding: 0 8%;
+	}
+	.callWhen {
+		display: none;
+	}
+	.callAt {
+		width: 44%;
+	}
+	#whiteTech {
+		height: 490px;
+	}
+	#greytech0 {
+		height: 490px;
+	}
+	.brand_tile {
+		height: 78px;
+		width: 78px;
+	}
+	.hp-contact-box {
+		background-size: 530%;
+	}
+	.fixblock_t {
+		background-size: 400%;
+	}
+	#greencatButton {
+		right:75px;
+	}
+	#techButton {
+		right:70px;
+	}
+}
+/*480*/
+@media only screen and (max-width:510px) {
+	.headerContent {
+		padding: 0 10%;
+	}
+	.sticky > .headerContent {
+		padding: 0 10%;
+	}
+	.top-menu a {
+		font-size: 10px;
+		padding: 5%;
+	}
+	.hero {
+		height: 240px;
+	}
+	.iframe {
+		height:164px;
+	}
+	.pitch {
+		padding: 18% 15% 0;
+	}
+	.pitch h2 {
+		font-size: 16px;
+	}
+	.extras {
+		padding-top: 0px;
+	}
+	.bullet_h p {
+		font-size:10px;
+	}
+	.greyblock {
+		padding: 0 10%;
+	}
+	.greyblock h2 {
+		font-size: 16px;
+	}
+	.whiteblock {
+		padding: 0 10%;
+	}
+	.whiteblock h2 {
+		font-size: 16px;
+	}
+	.whiteblock p {
+		font-size: 10px;
+	}
+	#button1 {
+		margin-top: 0;
+	}
+	.slantblock {
+		height: 166px;
+		padding: 0 10%;
+	}
+	.twotone p {
+		font-size:15px;
+		margin: 17% 0 0 ;
+	}
+	.iSwitch {
+		display:none;
+	}
+	.intheblock {
+		width: 80%;
+	}
+	#button2 {
+		margin-right: 0;
+	}
+	.engineblock {
+		height: 570px;
+	}
+	.enginecontent {
+		height: 750px;
+		background: rgba(0, 0, 0, 0) linear-gradient(360deg, transparent 270px, #ffffff 0px) repeat scroll 0 0;
+	}
+	.brand_tile {
+		margin: 1%;
+		height: 110px;
+		width: 110px;
+	}
+	.featureWords {
+		padding: 20px 20%;
+	}
+	#greyblock2 {
+		height: 750px;
+	}
+	.hp-contact-box {
+		background-size: 600%;
+		padding: 0 10%;
+	}
+	.glyphicon-phone-alt {
+		display:none;
+	}
+	.chatNow img {
+		display:none;
+	}
+	#fonChat {
+		width:66%;
+	}
+	.footerBottom {
+		height: 420px;
+	}
+	.hp-parent-map {
+		bottom: 127px;
+		right: 158px;
+	}
+	#whiteabout {
+		height: 900px;
+	}
+	#pdfButton0 {
+		margin-top: -23px;
+		margin-left: 40px;
+	}
+	#greyabout {
+		height: 580px;
+	}
+	#whitecat {
+		height: 522px;
+	}
+	#pitchcat {
+		top: 888px;
+	}
+	#pdfButton2 {
+	}
+	#greencatButton {
+		right: 120px;
+	}
+	#whiteTech {
+		height: 550px;
+	}
+	#pitchtech {
+		top: 890px;
+	}
+	#greytech0 {
+		height:570px;
+	}
+	#greyabout0 {
+		padding: 0 10%;
+	}
+	#whiteabout {
+		padding: 0 10%;
+		height: 760px;
+	}
+	#whiteabout h2 {
+		font-size:16px;
+	}
+	#greyabout h2 {
+		font-size: 16px;
+	}
+	#greyabout_left a {
+		font-size: 9px;
+	}
+	.greenblock_in {
+		padding: 2% 10%;
+	}
+	#aboutButton {
+		right:117px;
+	}
+	#demoButtonCat0 {
+	}
+	#socials {
+		padding: 0 10%;
+	}
+	.footerBottom {
+		padding: 0 10%;
+	}
+	#greycat {
+		padding: 0 10% 0 0;
+	}
+	#greycat_left h2 {
+		font-size: 16px;
+	}
+	#whiteTech {
+		padding: 0 10%;
+		height: 470px;
+	}
+	#whiteTech  h2 {
+		font-size: 16px;
+	}
+	.featureCol_left {
+		float:none;
+		width:100%;
+	}
+	.featureCol_right {
+		float:none;
+		width:100%;
+	}
+	.whiteblock p {
+		font-size:11px;
+	}
+	#columnBlock {
+		padding: 0 10%;
+	}
+	#columnBlock h2 {
+		font-size: 16px;
+	}
+	#greytech0 {
+		padding: 0 10% 0 0;
+		height:480px;
+	}
+	#greytech_right {
+		padding: 0 10%;
+		width:110%;
+	}
+	#techButton {
+		right: 117px;
+	}
+}
+/*414*/
+@media only screen and (max-width:447px) {
+	.top-menu a {
+		padding: 3%;
+	}
+	.hero {
+		height: 198px;
+	}
+	.iframe {
+		height: 122px;
+		width:113%;
+	}
+	.pitch h2 {
+		font-size: 16px;
+	}
+	.pitch p {
+		display:none;
+	}
+	.extras {
+		padding-top: 0;
+	}
+	#hero_video span {
+		font-size:10px;
+	}
+	#hero_video img {
+		margin-bottom: 3px;
+		width:26px;
+	}
+	.close {
+		font-size: 44px;
+		margin: 50px 0px -131px 100px;
+	}
+	.greyblock h2 {
+		font-size:15px;
+	}
+	.whiteblock h2 {
+		font-size:15px;
+	}
+	#button1 {
+		margin-top: 30px;
+	}
+	.twotone p {
+		font-size: 14px;
+		margin: 12% 0 0 ;
+	}
+	.engineblock {
+		background-size:260%;
+	}
+	.engineblock h2 {
+		font-size: 14px;
+	}
+	.whiteblock h2 {
+		font-size:14px;
+	}
+	.brand_tile {
+		height: 98px;
+		width: 98px;
+	}
+	.featureWords {
+		padding: 20px 10%;
+	}
+	#greyblock2 {
+		height: 654px;
+	}
+	#featureImage p {
+		padding: 2% 10%;
+	}
+	.hp-contact-box {
+		background-size: 680%;
+	}
+	.hp-parent-map {
+		bottom: 119px;
+		right:137px;
+	}
+	#pitchAbout h2 {
+		font-size: 16px;
+	}
+	#pitchAbout p {
+		font-size: 11px;
+	}
+	.pdfButton a {
+		font-size:10px;
+	}
+	.pdfButton img {
+		width: 20px;
+	}
+	.pdfButton {
+	}
+	#whiteabout h2 {
+		font-size:15px;		
+	}
+	#whiteabout {
+		height:790px;
+	}
+	#greyabout_left {
+		padding: 0 10%;
+	}
+	#pdfButton0 {
+		margin-top:16px;
+		margin-left:29px;
+	}
+	#whitecat h2 {
+		font-size: 15px;
+	}
+	#pitchcat {
+		top: 860px;
+	}
+	#demoButtonCat0 {
+	}
+	#pdfButton2 {
+	}
+	#pitchtech {
+		top: 900px;
+	}
+	#greytech0 {
+		height: 540px;
+	}
+	#aboutButton {
+		right: 90px;
+	}
+	#greencatButton {
+		right: 90px;
+		width:100%;
+	}
+	#columnBlock h2 {
+		font-size:15px;
+	}
+	#greytech0 {
+		height: 580px;
+	}
+	#techButton {
+		right:90px;
+	}
+}
+/*412*/
+@media only screen and (max-width:413px) {
+}
+/*400*/
+@media only screen and (max-width:406px) {
+	#greycat {
+		height: 310px;
+	}
+	.hero {
+		height: 250px;
+		background-size: 130%;
+	}
+	.pitch {
+		padding-top:30%;
+	}
+	.pitch p {
+		display: none;
+	}
+	.iframe {
+		height: 173px;
+		width: 112%;
+	}
+	.engineblock {
+		background-size: 270%;
+	}
+	.brand_tile {
+		height: 92px;
+		width: 92px;
+	}
+	.hp-contact-box {
+		background-size: 740%;
+	}
+	#pdfButton0 {
+		margin-top: 0;
+	}
+}
+/*384*/
+@media only screen and (max-width:392px) {
+	.hp-parent-map {
+		bottom: 107px;
+		right: 130px;
+	}
+	.whiteblock {
+		height:430px;
+	}
+	.engineblock {
+		height: 600px;
+	}
+	.enginecontent {
+		height: 780px;
+	}
+	#pdfButton2 {
+		padding: 0;
+		width: 100%;
+	}
+	#whiteabout {
+		height: 830px;
+	}
+	#aboutButton {
+		right: 80px;
+	}
+	#greencatButton {
+		right: 76px;
+	}
+	#whiteTech {
+		height: 510px;
+	}
+	#pitchtech {
+		top: 940px;
+	}
+}
+/*375*/
+@media only screen and (max-width:379px) {
+	.top-menu {
+		width: 104%;
+	}
+	.hero {
+		height: 240px;
+	}
+	.iframe {
+		height: 164px;
+	}
+	.engineblock {
+		background-size: 600%;
+	}
+	.brand_tile {
+		height:86px;
+		width: 86px;
+	}
+	.hp-contact-box {
+		background-size: 750%;
+	}
+	.callAt {
+		width: 50%;
+	}
+	#fixCat {
+		background-size: 500%;
+	}
+	#demoButtonCat0 {
+		margin: -10px auto;
+	}
+	#demoButtonCat0 a {
+		width: 88%;
+	}
+	.fixblock_t {
+		background-size: 800%;
+	}
+	#techButton {
+		right:75px;
+	}
+}
+/*360*/
+@media only screen and (max-width:360px) {
+	.headerContent {
+		padding: 0 6%;
+	}
+	.sticky > .headerContent {
+		padding: 0 6%;
+	}
+	#greyblock2 {
+		height: 690px;
+	}
+	.pdfButton a {
+		padding: 10px;
+	}
+	#whiteabout {
+		height: 860px;
+	}
+	#greytech0 {
+		height: 600px;
+	}
+	.fixblock_t {
+		background-size: 450%;
+	}
+	.top-menu {
+		width: 100%;
+	}
+	.hero {
+		height: 230px;
+	}
+	.iframe {
+		height: 154px;
+	}
+	#featureImage {
+		background-size: 110%;
+	}
+	.hp-contact-box {
+		background-size: 800%;
+	}
+	.callAt {
+		width: 50%;
+	}
+	.chatNow {
+		font-size: 10px;
+	}
+	.hp-parent-map {
+		bottom: 106px;
+		right: 121px;
+	}
+	#aboutButton {
+		right: 75px;
+	}
+	#greencatButton {
+		right: 75px;
+	}
+	.brand_tile {
+		width: 80px;
+		height: 80px;
+	}
+	#fixCat {
+		background-size: 500%;
+	}
+	.fixblock_t {
+		background-size: 800%;
+	}
+	#techButton {
+	}
+}
+/*359*/
+@media only screen and (max-width:359px) {
+}
+/*320*/
+@media only screen and (max-width:339px) {
+	.headerContent {
+		padding: 0;
+	}
+	.sticky > .headerContent {
+		padding: 0;
+	}
+	.hero{
+		background-size: 150%;
+	}
+	.slantblock {
+		height: 210px;
+	}
+	.whiteblock {
+		height: 470px;
+	}
+	.twotone p {
+		margin: 25% 0 0;
+	}
+	.engineblock {
+		height: 640px;
+	}
+	.enginecontent {
+		height: 820px;
+	}
+	#greyblock2 {
+		height: 778px;
+	}
+	#featureImage {
+		height: 32%;
+		background-size: 125%;
+	}
+	.hp-contact-box {
+		height: 680px;
+	}
+	.hp-parent-map {
+		bottom: 80px;
+	}
+	#employees {
+		background-position: 7px 7px, 210px 10px;
+	}
+	#program {
+		background-position: 7px 7px, 210px 10px;
+	}
+	#fonChat {
+		width: 60%;
+	}
+	.callAt {
+		width: 60%;
+	}
+	.pdfButton a {
+		font-size: 8px;
+	}
+	#whiteabout {
+		height: 960px;
+	}
+	#greyabout {
+		height: 640px;
+	}
+	#aboutButton {
+		right: 54px;
+	}
+	#pdfButton0 {
+		padding-top: 0;
+	}
+	#whitecat {
+		height: 570px;
+	}
+	#pitchcat {
+		top:910px;
+	}
+	.pdfButton {
+		padding-top: 0;
+	}
+	#whiteTech {
+		height: 620px;
+	}
+	#pitchtech {
+		top: 1020px;
+	}
+	#greytech0 {
+		height: 690px;
+	}
+	.brand_tile {
+		width: 75px;
+		height: 75px;
+	}
+	#greencatButton {
+		right: 54px;
+	}
+	#techButton {
+		padding: 0;
+		right: 54px;
+	}
+}
